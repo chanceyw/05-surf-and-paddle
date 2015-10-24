@@ -6,8 +6,9 @@
 .container {
   background-image: url(http://i.imgur.com/gyb4iYj.jpg);
   position: absolute;
-  width: 100%;
+  width: 90%;
   padding-bottom: 7rem;
+  left: 35px;
 }
 
 .header{
@@ -36,8 +37,11 @@ margin-up: 38px;
 }
 
 }
-.fa .fa-pie-chart{
-  font-size: 70px;
+ .fa-pie-chart{
+  width: 15px;
+  height: 15px;
+  position: relative;
+
 }
 .main-title {
   font-size: 80px;
@@ -45,5 +49,37 @@ margin-up: 38px;
 }
 .title-sub {
   font-size: 14px;
-   margin-top: 400px;
+   position: absolute;
+   top: 200px;
+   left: 500px;
+}
+.left-section {
+  background: red;
+  max-width: 45%;
+  position: absolute;
+  left: 45px;
+  top: 400px;
+
+  text-align: left;
+}
+.right-section {
+  position: absolute;
+  right: 0px;
+  top: 375px;
+  max-width: 49%;
+}
+.tit1 {
+  font-size: 43px;
+}
+footer{
+  position: absolute;
+  top: 2000px;
+}
+.icon-section{
+  position: relative;
+top: -12px;
+border-radius: 50%;
+}
+.name1{
+  font-size: 2px;
 }
