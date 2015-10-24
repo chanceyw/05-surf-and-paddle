@@ -4,25 +4,26 @@
 }
 
 .container {
-  background-image: url(http://i.imgur.com/gyb4iYj.jpg);
+  background-image: url(http://www.sixer.biz/wallpaper/underwater/underwater-wallpaper-hd-is-wallpapers-underwater-background-hotel-camera-world-google-singapore-welding-dubai-salary-reviews-street.jpg);
   position: absolute;
   width: 90%;
   padding-bottom: 7rem;
-  left: 35px;
+  left: 55px;
 }
 
 .header{
 text-align:center;
 max-width: 1000px;
-margin-left: 150px;
+margin-left: 100px;
 margin-top: 78px;
 }
 
 .left-top-logo {
 background-color: green;
 max-width: 300px;
+max-height: 100px;
 list-style: none;
-display: flex;
+display: inline-flex;
 margin-left: 132px;
 margin-up: 38px;
 }
@@ -51,25 +52,26 @@ margin-up: 38px;
   font-size: 14px;
    position: absolute;
    top: 200px;
-   left: 500px;
+   left: 435px;
 }
 .left-section {
   background: red;
   max-width: 47%;
   float: left;
-  margin-left: 41px;
+  margin-left: 54px;
   margin-top: 400px;
 
   text-align: left;
 }
 .right-section {
   position: absolute;
-  right: 0px;
+  right: -45px;
   top: 375px;
   max-width: 49%;
 }
 .tit1 {
   font-size: 43px;
+  color: rgb(9, 18, 60);
 }
 footer{
   position: absolute;
@@ -92,6 +94,7 @@ left: 50px;
   font-size: 16px;
   position: relative;
   top: -40px;
+  color: #656F75;
 }
 .icon-section {
   position: relative;
@@ -111,4 +114,17 @@ left: 50px;
   position: relative;
   right: -4px;
   top: -40px;
+}
+
+.btns-left button {
+  background: grey;
+  border: solid grey;
+  color:
+
+}
+
+}
+.btns-left button span:hover{
+  background-color: rgb(42, 43, 231);
+
 }
