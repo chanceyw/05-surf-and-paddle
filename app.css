@@ -55,10 +55,10 @@ margin-up: 38px;
 }
 .left-section {
   background: red;
-  max-width: 45%;
-  position: absolute;
-  left: 45px;
-  top: 400px;
+  max-width: 47%;
+  float: left;
+  margin-left: 41px;
+  margin-top: 400px;
 
   text-align: left;
 }
@@ -79,7 +79,36 @@ footer{
   position: relative;
 top: -12px;
 border-radius: 50%;
+
 }
-.name1{
-  font-size: 2px;
+.name1 {
+font-size: 13px;
+position: relative;
+top: -50px;
+left: 50px;
+
+}
+.content{
+  font-size: 16px;
+  position: relative;
+  top: -40px;
+}
+.icon-section {
+  position: relative;
+  right: -20px;
+  width: 30px;
+  height: 30px;
+}
+
+.underline {
+  position: relative;
+  right: -150px;
+  top: -80px;
+  font-size: 14px;
+}
+
+.tit2 {
+  position: relative;
+  right: -4px;
+  top: -40px;
 }
