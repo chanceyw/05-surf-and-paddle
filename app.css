@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  text-color: white;
+}
+
+.container {
+  background-color: blue;
+  width: 100%;
+  position: ;
+  text-color: white;
+}
+.header{
+text-align: center;
+}
+.left-top-logo {
+display: inline;
+}
+.right-top-logo {
+
+float: right;
+
+}
