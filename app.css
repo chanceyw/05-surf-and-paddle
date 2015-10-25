@@ -19,7 +19,7 @@ margin-top: 78px;
 }
 
 .left-top-logo {
-
+color: #083451;
 max-width: 300px;
 max-height: 100px;
 list-style: none;
@@ -29,7 +29,7 @@ margin-up: 38px;
 }
 
 .right-top-nav{
-
+  color: #083451;
   display: flex;
   list-style: none;
   max-width: 300px;
@@ -46,7 +46,7 @@ margin-up: 38px;
 }
 .main-title {
   font-size: 80px;
-  color: rgb(225, 240, 225);
+  color: #FFFFFF;
 }
 .title-sub {
   font-size: 14px;
@@ -55,7 +55,7 @@ margin-up: 38px;
    left: 435px;
 }
 .left-section {
-
+  background-color: green;
   max-width: 47%;
   float: left;
   margin-left: 54px;
@@ -64,6 +64,7 @@ margin-up: 38px;
 
 }
 .right-section {
+  background-color: blue;
   position: absolute;
   right: 220px;
   top: 440px;
@@ -78,7 +79,7 @@ margin-up: 38px;
 }
 
 .namer {
-  color: blue;
+  color: #083451;
   position: relative;
   right: -170px;
 }
@@ -166,7 +167,7 @@ left: 50px;
 
 footer {
   position: absolute;
-  top: 1350px;
+  top: 1330px;
   background-color: blue;
   width: 90%;
   left: 55px;
@@ -177,7 +178,7 @@ footer h1 {
 }
 
 footer img {
-  width: 279.5px;
+  width: 279.7px;
   height: 260px;
 }
 .cool {
@@ -190,4 +191,37 @@ footer img {
   position: relative;
   top: -94px;
   left: 297px;
+}
+
+.longer {
+  max-width: 200px;
+  position: relative;
+  top: -155px;
+  left: 582px;
+}
+.oh {
+  position: relative;
+  top: -190px;
+  left: 865px;
+}
+.bottom-nav {
+  background: #083452;
+  position: absolute;
+  bottom: 46.7px;
+  width: 1131.5px;
+
+  font-size: 12px;
+  color: #6F889A;
+}
+.leftbottom {
+
+ display: flex;
+ position: relative;
+ top: 4px;
+}
+
+ul .right-bottom {
+  display: inline flex;
+  position: relative;
+  list-style: none;
 }
