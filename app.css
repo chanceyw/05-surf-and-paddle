@@ -19,13 +19,11 @@
   margin: auto;
   list-style: none;
   margin-left: 150px;
-
-
 }
+
  .left-top-logo li {
   flex-grow: .8 .5;
   margin: 10px;
-
 }
 
 .right-top-nav {
@@ -55,28 +53,23 @@ font-size: 25px;
 .header h5  {
  font-size: 12px;
  text-align: center;
- background: white;
-
 }
 
 .left-section {
  float: left;
   max-width: 50%;
-  margin-left: 20px;
+  margin-left: 52px;
+
 }
 
 .left-section span {
   text-decoration: underline;
 }
+
 .all {
-
-margin: 30px;
-width: 700px;
-background: yellow;
-}
-.icon-section .name1 .underline {
-
-
+margin-bottom: 30px;
+margin-top: 30px;
+width: 250px;
 }
 
 .tit1 {
@@ -97,9 +90,6 @@ background: yellow;
   font-size: 16px;
   text-align: left;
   color: #656F75;
-}
-.underline {
-
 }
 
 .tit2 {
@@ -128,6 +118,7 @@ padding: 20px;
 .icon {
   border-radius: 50%;
   text-align: center;
+
 }
 
 .namer {
@@ -136,9 +127,8 @@ padding: 20px;
 }
 
 .icon2 {
-position: relative;
-left: -135px;
-margin: 30px;
+align-items: center;
+text-align: center;
 }
 
 .author-links {
@@ -146,7 +136,6 @@ margin: 30px;
   list-style: none;
   text-align: center;
   max-width: 400px;
-  background: green;
   margin-left: 40px;
 
 }
@@ -210,7 +199,7 @@ footer img {
   background: #083452;
   position: relative;
   top: -205px;
-  padding-bottom: 25px;
+  padding-bottom: 20px;
   width: 1131.5px;
   font-size: 12px;
   color: #6F889A;
