@@ -109,7 +109,7 @@ padding: 20px;
 .right-section {
   position: relative;
   top: 70px;
-  background: yellow;
+
   text-align: center;
   max-width: 40%;
   float: right;
@@ -165,7 +165,7 @@ footer h1 {
 }
 
 footer img {
-  width: 279.7px;
+  width: 270px;
   height: 260px;
   padding: 0px;
 }
@@ -200,7 +200,7 @@ footer img {
   position: relative;
   top: -205px;
   padding-bottom: 20px;
-  width: 1131.5px;
+  width: 1096px;
   font-size: 12px;
   color: #6F889A;
 }
