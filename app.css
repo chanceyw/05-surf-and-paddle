@@ -85,6 +85,14 @@
 .btns-left button span:hover {
   background-color: rgb(42, 43, 231);
 }
+
+.container {
+  overflow: auto;
+  width: 100%;
+  max-width: 1040px;
+  margin: auto;
+}
+
 .right-section {
   margin-top: 70px;
   text-align: center;
