@@ -1,17 +1,13 @@
 * {
   box-sizing: border-box;
 }
-
 .head {
   background-image: url(http://www.sixer.biz/wallpaper/underwater/underwater-wallpaper-hd-is-wallpapers-underwater-background-hotel-camera-world-google-singapore-welding-dubai-salary-reviews-street.jpg);
   padding-bottom: 7rem;
 }
-
 .header {
   text-align: center;
-
 }
-
 .left-top-logo {
   display: flex;
   flex-wrap: nowrap;
@@ -20,12 +16,10 @@
   list-style: none;
   margin-left: 150px;
 }
-
- .left-top-logo li {
+.left-top-logo li {
   flex-grow: .8 .5;
   margin: 10px;
 }
-
 .right-top-nav {
   color: #083451;
   display: flex;
@@ -35,111 +29,88 @@
   margin-left: 820px;
   flex-grow: 1;
 }
-
 .right-top-nav li {
   flex-grow: .8
 }
-
 .head .fa-pie-chart {
-font-size: 25px;
+  font-size: 25px;
 }
-
 .header .main-title {
   font-size: 80px;
   color: #FFFFFF;
   text-align: center;
 }
-
-.header h5  {
- font-size: 12px;
- text-align: center;
+.header h5 {
+  font-size: 12px;
+  text-align: center;
 }
-
 .left-section {
- float: left;
+  float: left;
   max-width: 50%;
   margin-left: 52px;
-
 }
-
 .left-section span {
   text-decoration: underline;
 }
-
 .all {
-margin-bottom: 30px;
-margin-top: 30px;
-width: 250px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  width: 250px;
 }
-
 .tit1 {
   font-size: 43px;
   color: rgb(9, 18, 60);
   /*text-align: left;*/
 }
-
 .icon-section {
   border-radius: 50%;
 }
-
 .name1 {
   font-size: 13px;
 }
-
 .content {
   font-size: 16px;
   text-align: left;
   color: #656F75;
 }
-
 .tit2 {
-margin: 20px;
-padding: 20px;
+  margin: 20px;
+  padding: 20px;
 }
-
 .btns-left button {
   background: grey;
   border: solid grey;
   color:
 }
-
 .btns-left button span:hover {
   background-color: rgb(42, 43, 231);
 }
 .right-section {
-  position: relative;
-  top: 70px;
-
+  margin-top: 70px;
   text-align: center;
   max-width: 40%;
   float: right;
 }
-
 .icon {
   border-radius: 50%;
   text-align: center;
-
 }
-
 .namer {
   color: #083451;
   text-align: center;
 }
-
 .icon2 {
-align-items: center;
-text-align: center;
+  align-items: center;
+  text-align: center;
 }
-
 .author-links {
   display: flex;
   list-style: none;
   text-align: center;
   max-width: 400px;
   margin-left: 40px;
-
 }
-.author-links li{
+.author-links li {
   flex-grow: 1;
   text-align: center;
   align-items: center;
@@ -148,53 +119,43 @@ text-align: center;
 .right-text {
   text-align: left;
 }
-.sidebar-tit{
+.sidebar-tit {
   text-align: left;
 }
-
 footer {
-  position: absolute;
-  top: 1330px;
   width: 90%;
   left: 55px;
 }
-
 footer h1 {
   font-size: 38px;
   text-align: center;
 }
-
 footer img {
   width: 270px;
   height: 260px;
   padding: 0px;
 }
-
 .cool {
   position: relative;
   top: -55px;
   left: 12px;
 }
-
 .post {
   position: relative;
   top: -94px;
   left: 297px;
 }
-
 .longer {
   max-width: 200px;
   position: relative;
   top: -155px;
   left: 582px;
 }
-
 .oh {
   position: relative;
   top: -190px;
   left: 865px;
 }
-
 .bottom-nav {
   background: #083452;
   position: relative;
@@ -204,7 +165,6 @@ footer img {
   font-size: 12px;
   color: #6F889A;
 }
-
 .leftbottom {
   display: flex;
   flex-wrap: nowrap;
@@ -213,14 +173,11 @@ footer img {
   position: relative;
   top: 35px;
   left: 30px;
-
-
 }
 .leftbottom i {
-margin: 10px;
-font-size: 25px;
+  margin: 10px;
+  font-size: 25px;
 }
-
 .right-bottom {
   display: flex;
   flex-wrap: nowrap;
@@ -230,13 +187,8 @@ font-size: 25px;
   margin-left: 700px;
   position: relative;
   bottom: 20px;
-
-
 }
 .right-bottom li {
-flex-grow: 1 0 calc(25% - 20px);
-margin: 10px;
-
-
-
+  flex-grow: 1 0 calc(25% - 20px);
+  margin: 10px;
 }
