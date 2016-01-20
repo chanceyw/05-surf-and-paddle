@@ -131,18 +131,37 @@
   text-align: left;
 }
 footer {
-  width: 90%;
-  left: 55px;
+  margin-top: 4rem;
+
 }
 footer h1 {
   font-size: 38px;
   text-align: center;
 }
-footer img {
-  width: 270px;
-  height: 260px;
-  padding: 0px;
+
+.footer-pics {
+  overflow: auto;
 }
+
+.footer-pic {
+  position: relative;
+  width: 25%;
+  float: left;
+}
+.footer-caption {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom: 2rem;
+}
+
+footer img {
+  display: block;
+  float: left;
+  width: 100%;
+  margin: 0;
+}
+
 .cool {
   position: relative;
   top: -55px;
@@ -166,10 +185,7 @@ footer img {
 }
 .bottom-nav {
   background: #083452;
-  position: relative;
-  top: -205px;
   padding-bottom: 20px;
-  width: 1096px;
   font-size: 12px;
   color: #6F889A;
 }
