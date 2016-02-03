@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "deploy": "broccoli build dist && surge dist chanceyw-surf.surge.sh && trash dist"
+    "deploy": "surge . chanceyw-surf.surge.sh"
   }
 }
